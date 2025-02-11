@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Idaksh230's Portfolio</title>
+  <style>
+    body { font-family: Arial; margin: 0; padding: 20px; }
+    .navbar { background: #333; padding: 15px; color: white; }
+    .project-card { border: 1px solid #ddd; padding: 10px; margin: 10px; }
+  </style>
+</head>
+<body>
+  <nav class="navbar">My Portfolio</nav>
+  <section>
+    <h1>Hi, I'm Idaksh! 👋</h1>
+    <p>I build web apps and love coding.</p>
+  </section>
+  <div class="project-card">
+    <h3>Project 1: Weather App</h3>
+    <p>Built with HTML, CSS, and JavaScript.</p>
+    <a href="#">GitHub Link</a>
+  </div>
+</body>
+</html>
